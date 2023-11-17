@@ -1,7 +1,6 @@
-# Project Name
+# Usof-backend
 
-Description of your project goes here. Provide a brief overview of what the project does and its key features.
-
+API for a future question and answer service forprofessional and enthusiast programmers - usof.
 ## Installation
 
 Follow these steps to set up and run the project locally:
@@ -31,14 +30,6 @@ Follow these steps to set up and run the project locally:
 - Comments Documentation: [Comments Docs](./docs/Comments.md)
 - Users Documentation: [Users Docs](./docs/Users.md)
 - Posts Documentation: [Posts Docs](./docs/Posts.md)
-
-## Usage
-
-Provide information on how to use the application, including any configuration options, user authentication, and key functionalities.
-
-## Contributing
-
-If you'd like to contribute to this project, feel free to do it.
 
 ## License
 
