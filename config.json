@@ -1,0 +1,23 @@
+{
+  "port": 8000,
+  "db" : {
+    "host": "localhost",
+    "user": "dharin",
+    "database": "usof",
+    "password": "securepass"
+  },
+  "jswt": {
+    "secretKey": "securepass",
+    "tokenLife": "40d"
+  },
+  "nodemailer": {
+    "service": "gmail",
+    "host": "smtp.gmail.com",
+    "port": 587,
+    "secure": false,
+    "auth": {
+      "user": "raddzor.101@gmail.com",
+      "pass": "hsjs zakc hilz ltyw"
+    }
+  }
+}

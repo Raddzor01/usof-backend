@@ -1,0 +1,35 @@
+{
+  "name": "usof-backend",
+  "version": "1.0.0",
+  "description": "API for service of Q&A for programmers(Stack overflow-like)",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "run": "node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git@gitlab.ucode.world:connect-khpi/connect-fullstack-usof-backend/dharin.git"
+  },
+  "author": "D. Harin",
+  "license": "ISC",
+  "dependencies": {
+    "@adminjs/express": "^6.0.1",
+    "@adminjs/sequelize": "^4.0.0",
+    "adminjs": "^7.3.1",
+    "body-parser": "^1.20.2",
+    "cookie-parser": "^1.4.6",
+    "cors": "^2.8.5",
+    "express": "^4.18.2",
+    "express-fileupload": "^1.4.2",
+    "jsonwebtoken": "^9.0.2",
+    "moment": "^2.29.4",
+    "mysql2": "^3.6.3",
+    "nodemailer": "^6.9.7",
+    "sequelize": "^6.35.0"
+  },
+  "devDependencies": {
+    "nodemon": "^3.0.1"
+  }
+}
