@@ -1,6 +1,7 @@
 # Usof-backend
 
-API for a future question and answer service forprofessional and enthusiast programmers - usof.
+API for a web forum service.
+
 ## Installation
 
 Follow these steps to set up and run the project locally:
